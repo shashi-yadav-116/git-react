@@ -23,3 +23,8 @@ function App() {
 }
 
 export default App;
+ //hooks: to make functional component as state component .
+ // hooks let you use of state and other react features(life cycle methods) in functional based components without writing class.
+ //types of hooks
+ //1. usestate
+ //2. useEffect
